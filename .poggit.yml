@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/RifqyDev/Shield-Stable
+build-by-default: true
+branches:
+- main
+projects:
+     Shiled-Stable:
+          path: ""
+...
